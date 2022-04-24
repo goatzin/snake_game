@@ -1,2 +1,2 @@
-# snake_game
- Snake Game with rust O_o
+# Snake_game
+ Snake Game with rust and Bevy O_o
